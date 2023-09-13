@@ -1,5 +1,12 @@
-#  Disciplina SCC0294–Projeto de Graduação II 2023-02
+# Disciplina SCC0294–Projeto de Graduação II 2023-02
 
+# Horários das Monitorias
+- Dias: Terças e Quintas
+- Horário: 8:00 às 10:00
+- Local: Sala de estudos 24 Hrs (ao lado da Biblioteca do ICMC)
+  
+
+# Informações
 - [Canal no Telegram](https://t.me/+Ms0QkKw_VMczZWIx)
 - [Grupo no Telegram](https://t.me/+3_BMjSi9fKM5MDQx)
-- [Github Repo]()
+- [Github Repo](git@github.com:AngelicaRibeiro/ICMC-SCC0294-Projeto-de-Graduacao-II.git)
